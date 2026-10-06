@@ -1,0 +1,29 @@
+/*
+  Design tokens – change brand colours & fonts here only.
+  Tailwind v4 turns each --color-* / --font-* into utilities
+  (e.g. bg-ink, text-crimson, font-display).
+*/
+@theme {
+  /* Fonts */
+  --font-display: 'Cinzel', 'Times New Roman', serif;
+  --font-sans: 'Montserrat', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* Backgrounds */
+  --color-ink: #0a0a0b; /* page background */
+  --color-coal: #111113; /* section panels */
+  --color-ash: #18181b; /* cards / raised surfaces */
+
+  /* Text */
+  --color-bone: #ece7df; /* primary text */
+  --color-mist: #a29d95; /* secondary text */
+  --color-smoke: #6f6b65; /* muted captions */
+
+  /* Brand */
+  --color-crimson: #c8202f; /* primary accent – buttons, highlights */
+  --color-crimson-deep: #9e1622; /* button hover */
+  --color-gold: #c9a24a; /* logo / feature icons */
+  --color-gold-soft: #e0c27a;
+
+  /* Lines */
+  --color-line: rgb(255 255 255 / 0.08);
+}
