@@ -41,7 +41,7 @@ export default function Gallery() {
 
   return (
     <>
-      <Seo title="Gallery" description="Posters, behind-the-scenes moments, events, locations and the people behind Eagle Media Creations." />
+      <Seo title="Gallery" description="Posters, behind-the-scenes moments, events, locations and the people behind Trishul Entertainments." />
       <PageHero kicker="Moments" title="Gallery" image="page-gallery" position="object-[85%_center]" />
 
       <section className="section-y-sm bg-ink">

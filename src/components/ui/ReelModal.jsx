@@ -47,7 +47,7 @@ export default function ReelModal({ open, onClose }) {
               <iframe
                 className="size-full"
                 src={`${site.reelUrl}?autoplay=1`}
-                title="Eagle Media Creations showreel"
+                title="Trishul Entertainments showreel"
                 allow="autoplay; encrypted-media; picture-in-picture"
                 allowFullScreen
               />

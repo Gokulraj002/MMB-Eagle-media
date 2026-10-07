@@ -16,7 +16,7 @@ export default function Films() {
 
   return (
     <>
-      <Seo title="Our Films" description="Feature films produced by Eagle Media Creations – released titles and upcoming productions." />
+      <Seo title="Our Films" description="Feature films produced by Trishul Entertainments – released titles and upcoming productions." />
       <PageHero kicker="Filmography" title="Our Films" image="page-films" position="object-[72%_center]" />
 
       <section className="section-y bg-ink">

@@ -33,7 +33,7 @@ const pillars = [
 export default function About() {
   return (
     <>
-      <Seo title="About Us" description="Eagle Media Creations is a film and media production company creating feature films, entertainment events and creative collaborations." />
+      <Seo title="About Us" description="Trishul Entertainments is a film and media production company creating feature films, entertainment events and creative collaborations." />
       <PageHero kicker="Who we are" title="About Us" image="page-about" position="object-[60%_center]" />
       <AboutSection showButton={false} title="Our Story" />
 

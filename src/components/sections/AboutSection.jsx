@@ -14,7 +14,7 @@ export default function AboutSection({ showButton = true, title = 'About Us' }) 
           <Img
             name="premium-about-v3"
             size="(min-width: 1024px) 42vw, 100vw"
-            alt="Eagle Media Creations crew filming at sunset"
+            alt="Trishul Entertainments crew filming at sunset"
             className="absolute inset-0 size-full object-cover object-[38%_center]"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-coal via-transparent via-40% to-transparent lg:bg-gradient-to-r lg:from-transparent lg:from-60% lg:to-coal lg:to-[97%]" />
@@ -25,7 +25,7 @@ export default function AboutSection({ showButton = true, title = 'About Us' }) 
             <h2 className="section-title">{title}</h2>
             <div className="mt-7 space-y-5 text-[15px] leading-[1.85] text-bone/85">
               <p>
-                Eagle Media Creations is a film and media production company dedicated to creating impactful
+                Trishul Entertainments is a film and media production company dedicated to creating impactful
                 stories that entertain, inspire and stay with audiences.
               </p>
               <p>

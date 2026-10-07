@@ -1,4 +1,4 @@
-# Eagle Media Creations – Website
+# Trishul Entertainments – Website
 
 Vite + React 19 (JavaScript) + Tailwind CSS v4 + Framer Motion.
 
@@ -26,7 +26,7 @@ npm run build    # production build → dist/
 ├── .env.example                 VITE_CONTACT_ENDPOINT
 └── src/
     ├── assets/
-    │   ├── logo/                eagle-logo.png
+    │   ├── logo/                trishul-emblem.png, trishul-logo.png
     │   └── images/
     │       ├── web/             generated WebP files (800w + 1600w, + ~2048w for large banners) – don't edit by hand
     │       └── gangamma/        gangamma-title.png (transparent title art)

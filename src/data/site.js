@@ -1,14 +1,14 @@
 // Company-wide details – edit here and they update everywhere on the site.
 export const site = {
-  name: 'Eagle Media Creations',
-  // Live domain without a trailing slash, e.g. 'https://eaglemediacreations.com' (used for share previews).
+  name: 'Trishul Entertainments',
+  // Live domain without a trailing slash, e.g. 'https://trishulentertainments.com' (used for share previews).
   url: '',
-  shortName: 'Eagle',
+  shortName: 'Trishul',
   tagline: 'Stories. Cinema. Beyond Imagination.',
   description:
     'A production house creating powerful stories for a bigger tomorrow.',
-  phone: '+91 98765 43210',
-  email: 'info@eaglemediacreations.com',
+  phone: '+91 63608 85433',
+  email: 'info.trishulent@gmail.com',
   address: {
     line1: 'Kakatiya Hills, Hyderabad,',
     line2: 'Telangana, India',
